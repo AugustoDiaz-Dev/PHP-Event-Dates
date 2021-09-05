@@ -1,0 +1,24 @@
+Consignas:
+
+Abrir el archivo unidad2.php
+Desarrollar un formulario de ingreso de datos con tres campos numéricos (no un campo de fecha), día, mes y año. 
+Crear un archivo calculo_fecha.php
+Deberá recibir los datos del formulario y calcular cuántos días faltan para dicha fecha 
+Mostrar el resultado en pantalla.
+
+Valoración
+Obligatorio.
+Calificable y forma parte del promedio.
+Cantidad de Intentos permitidos: 2 
+Calificación mínima para aprobar: 70%
+
+Material Relacionado:
+Manejo de fechas
+
+Forma de entrega:
+Hace clic en Evaluación Unidad II y adjunta tu trabajo en formato .rar o .zip
+Luego no te olvides de chequear que el Estado de la entrega diga "Enviado para calificar".
+
+Bibliografia utilizada 
+<!-- https://www.php.net/manual/es/function.date.php -->
+https://stackoverflow.com/questions/1735252/php-countdown-to-date#:~:text=You%20can%20use%20the%20strtotime,%2C%20hours%2C%20minutes%2C%20etc.
